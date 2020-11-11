@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.62532236.chunk.css",
+    "main.js": "/food-app/static/js/main.81ae7478.chunk.js",
+    "main.js.map": "/food-app/static/js/main.81ae7478.chunk.js.map",
+    "runtime-main.js": "/food-app/static/js/runtime-main.d0367244.js",
+    "runtime-main.js.map": "/food-app/static/js/runtime-main.d0367244.js.map",
+    "static/js/2.2a710693.chunk.js": "/food-app/static/js/2.2a710693.chunk.js",
+    "static/js/2.2a710693.chunk.js.map": "/food-app/static/js/2.2a710693.chunk.js.map",
+    "index.html": "/food-app/index.html",
+    "precache-manifest.12e45c7518ee5c678e9e930f3975990e.js": "/food-app/precache-manifest.12e45c7518ee5c678e9e930f3975990e.js",
+    "service-worker.js": "/food-app/service-worker.js",
+    "static/css/main.62532236.chunk.css.map": "/food-app/static/css/main.62532236.chunk.css.map",
+    "static/js/2.2a710693.chunk.js.LICENSE.txt": "/food-app/static/js/2.2a710693.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0367244.js",
+    "static/js/2.2a710693.chunk.js",
+    "static/css/main.62532236.chunk.css",
+    "static/js/main.81ae7478.chunk.js"
+  ]
+}
